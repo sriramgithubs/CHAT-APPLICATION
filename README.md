@@ -94,3 +94,6 @@ UI Improvements: Add animations and message timestamps.
 
 Conclusion
 This chat application effectively demonstrates real-time communication using Socket.io, Express, and React. It serves as a foundational project for building more advanced chat systems with features like authentication, private messaging, and database integration.
+
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/7b6fda78-681f-406f-a0a5-de665bb035a7)
